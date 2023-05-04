@@ -1,0 +1,10 @@
+{
+  "URL": "https://userinyerface.com/",
+  "DBConnection": {
+    "server": "localhost",
+    "port": "3309",
+    "database": "union_reporting",
+    "user": "root",
+    "password": "12345"
+  }
+}
